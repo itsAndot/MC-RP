@@ -1,6 +1,6 @@
-![Logo](https://mvrda.city/mcwhite.png)
+![Logo](https://mvrda.city/testbanner.png)
 
-#👹 MVRDA CITY Roleplay 👹
+# 👹 MVRDA CITY Roleplay 👹
 
 MVRDA CITY Roleplay es un servidor de San Andreas Multiplayer el cuál busca crear una experiencia única, moderna e innovadora en el mundo del roleplay. 
 - La gamemode actualmente contiene:
