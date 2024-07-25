@@ -1,4 +1,4 @@
-[Logo](https://mvrda.city/mcwhite.png)
+![Logo](https://mvrda.city/mcwhite.png)
 
 #👹 MVRDA CITY Roleplay 👹
 
