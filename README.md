@@ -1,16 +1,26 @@
-#MVRDA CITY ROLEPLAY
+# 👹 MVRDA CITY Roleplay 👹
 
-👹 Mvrda City RolePlay: GameMode; 
+MVRDA CITY Roleplay es un servidor de San Andreas Multiplayer el cuál busca crear una experiencia única, moderna e innovadora en el mundo del roleplay. 
+La gamemode actualmente contiene:
 
-- La gamemode de mvrda city actualmente contiene:
+💵 Dinero Negro
 
-1. Dinero Negro
-2. 5 Facciones legales
-3. Caminos de vida
-4. Fabricas de metanfetamina
-5. Licencia de Manejo y vuelo
-6. DNI (Con integracion Web)
-7. Negocios
+👮‍♂️ 5 Facciones legales (SAPD, Guardia Nacional, FBI, Gobierno, CNN)
 
-Proximamente se estaran agregando mucho mas contenido, Actualmente la gamemode se encuentra en fase de desarrollo en su version 0.1.5-R1
+🌱 Caminos de vida (Corporativo, Callejero o Nómada)
+
+🏭 Fábricas de metanfetamina.
+
+🚗 Licencias de manejo y vuelo.
+
+🆔 DNI
+
+💼 Negocios
+
+🌐 Integración web total
+
+
+Próximamente se estará agregando mucho más contenido. Actualmente la gamemode se encuentra en fase de desarrollo en su version 0.1.5-R1.
+
+![Logo](https://mvrda.city/testbanner.png)
 
