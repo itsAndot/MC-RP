@@ -20,8 +20,6 @@ La gamemode actualmente contiene:
 🌐 Integración web total
 
 
-Próximamente se estará agregando mucho más contenido. Actualmente la gamemode se encuentra en fase de desarrollo en su version 0.1.5-R1.
-
 # ESTADO ACTUAL: CANCELADO
 # ULTIMA VERSION ESTABLE: 0.1.7-RW1
 ![Logo](https://mvrda.city/testbanner.png)
